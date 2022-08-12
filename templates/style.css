@@ -1,0 +1,12 @@
+.box{
+    border: 4px solid black;
+    margin: 0 auto;
+}
+
+.card-columns {
+    padding: 10px; margin: 20px;
+}
+
+.btn btn-success {
+    width:fit-content; padding: 4px; margin:10px;
+}
